@@ -1,0 +1,18 @@
+{
+  "status": "ok",
+  "totalResults": 34,
+  "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Michelle Shen, Nikki  Carvajal",
+      "title": "What we know about funeral plans for former President Jimmy Carter - CNN",
+      "description": "The official state funeral in Washington, DC for former President Jimmy Carter will be held on January 9, the White House confirmed Monday.",
+      "url": "https://www.cnn.com/2024/12/30/politics/jimmy-carter-funeral-plans/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-h-15213289.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-12-30T23:50:00Z",
+      "content": "The official state funeral in Washington, DC for former President Jimmy Carter will be held on January 9, the White House confirmed Monday.\r\nPresident Joe Biden declared January 9 as a National Day o… [+5110 chars]"
+    },
+    {
